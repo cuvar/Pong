@@ -11,3 +11,7 @@ This game can either be played in singleplayer or multiplayer mode.
 - press M to start
 - 1st player controls with w and s keys
 - 2nd player controls with up and down keys
+
+
+### Todos:
+- [ ] translating text into english
